@@ -62,5 +62,5 @@
   
   <p> The whole project is deployed on Heroku Cloud.
   
- <p> Here is the link where you can access the project live : https://myml-mtapp.herokuapp.com/ <p>
+ <p> Here is the link where you can access the project live : https://healthcare-disease-prediction.herokuapp.com/ <p>
   <p> Thank you!</p>
